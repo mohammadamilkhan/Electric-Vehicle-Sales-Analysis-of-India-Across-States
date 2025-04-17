@@ -4,7 +4,8 @@ This Power BI dashboard analyzes the trends and patterns of Electric Vehicle (EV
 
 ---
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/9c7238da-edc9-458f-97f3-33e8e2a795c1)
+
 
 ## Problem Statement
 
